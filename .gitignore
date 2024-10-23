@@ -1,0 +1,10 @@
+# Ignore .pkl files
+*.pkl
+
+# Other files or directories to ignore (if needed)
+/node_modules
+/dist
+.env
+
+# Ignore myenv folder
+/myenv
